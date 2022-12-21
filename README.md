@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @focuscw0w
-- 👀 I’m interested in boxing,coding
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT and PYTHON
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-> Name: Filip Jamrich
+-> Age: 19
+-> Country: Slovakia
+-> Technologies: HTML, CSS, SCSS, Javascript, Vue, Python
+-> Hobbies: Coding, Reading, Powerlifting
 
 <!---
 focuscw0w/focuscw0w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
