@@ -1,4 +1,4 @@
--> Technologies: HTML, CSS, SCSS, Javascript, Vue, Python, Flutter, Tailwind
+-> Technologies: HTML, CSS, SCSS, Tailwind, Javascript, Vue, Python, Flutter
 ->
 
 <!---
